@@ -49,6 +49,7 @@
 </td></tr></table>  
 
 <br/>  
+
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -64,7 +65,7 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL-ide&logoColor=2C2255)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-05122A?style=flat&logo=POSTGRESQL-ide&logoColor=2C2255)&nbsp;
-![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=POSTGRESQL-ide&logoColor=2C2255)&nbsp;
+![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT-ide&logoColor=2C2255)&nbsp;
 
 
 ### ⚙️ &nbsp;GitHub Analytics
