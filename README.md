@@ -23,7 +23,7 @@
 ![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL-ide&logoColor=2C2255)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-05122A?style=flat&logo=POSTGRESQL-ide&logoColor=2C2255)&nbsp;
-
+![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=POSTGRESQL-ide&logoColor=2C2255)&nbsp;
 
 
 
@@ -50,7 +50,7 @@
 
 Credits: [Diego Oñate Acuña](https://github.com/diego3026)
 
-Last Edited on: 26/09/2023
+Last Edited on: 04/06/2024
 <!--
  <a style="margin-left: 5px;" target="_blank" href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf"><img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
 **diego3026/diego3026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
